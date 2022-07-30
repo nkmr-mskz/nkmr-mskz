@@ -1,4 +1,11 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkmr-mskz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkmr-mskz&layout=compact&show_icons=true&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nkmr-mskz&theme=dark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nkmr-mskz&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **nkmr-mskz/nkmr-mskz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
