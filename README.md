@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm @nkmr-mskz</h1>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nkmr-mskz" />
+  <img src="https://komarev.com/ghpvc/?username=nkmr-mskz" alt="Profile views" />
 </p>
 
 <p align="left">
@@ -25,12 +25,23 @@
 </p>
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nkmr-mskz&theme=dark&count_private=true&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkmr-mskz&layout=compact&show_icons=true&theme=dark" />
+  <!-- GitHub Stats with private repos -->
+  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nkmr-mskz&theme=dark&count_private=true&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" />
+  <!-- Most Used Languages -->
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkmr-mskz&layout=compact&show_icons=true&count_private=true&theme=dark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkmr-mskz&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nkmr-mskz&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🚀 Note:
+- プライベートリポジトリを反映するため、[個人用アクセストークン](https://github.com/settings/tokens)を使用しています。
+- 必要に応じて以下のように環境変数を設定してください：
+  - `GITHUB_TOKEN` にアクセストークンを保存します。
+
+### 📫 Contact:
+- Feel free to connect with me via GitHub!
 
 <!--
 **nkmr-mskz/nkmr-mskz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
