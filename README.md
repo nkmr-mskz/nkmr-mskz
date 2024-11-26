@@ -26,9 +26,9 @@
 
 <p align="left"> 
   <!-- GitHub Stats with private repos -->
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-pxpqonbuv-nkmr-mskzs-projects.vercel.app/api?username=nkmr-mskz&theme=dark&count_private=true&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" />
+  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-eyruh4i2x-nkmr-mskzs-projects.vercel.app/api?username=nkmr-mskz&theme=dark&count_private=true&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" />
   <!-- Most Used Languages -->
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-pxpqonbuv-nkmr-mskzs-projects.vercel.app/api/top-langs/?username=nkmr-mskz&layout=compact&show_icons=true&count_private=true&theme=dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-eyruh4i2x-nkmr-mskzs-projects.vercel.app/api/top-langs/?username=nkmr-mskz&layout=compact&show_icons=true&count_private=true&theme=dark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nkmr-mskz&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
